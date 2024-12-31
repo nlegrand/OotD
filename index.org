@@ -1,0 +1,83 @@
+* PNJ nommés
+
+| PNJ                | page |
+|--------------------+------|
+| Acaste             |  353 |
+| Chondrus           |  363 |
+| Darien             |  362 |
+| Estor Arkelander   |  356 |
+| Gaius              |  357 |
+| Kentimane          |  342 |
+| Kyrah              |  349 |
+| Luthéria           |  343 |
+| Moxéna             |  358 |
+| Mytros             |  348 |
+| Nessa la centaure  |  359 |
+| Pholon le centaure |  359 |
+| Pythor             |  351 |
+| Reine des drachmes |  358 |
+| Stéros de Jancan   |  360 |
+| Sydon              |  346 |
+| Taurus             |  355 |
+| Thyléa             |  342 |
+| Vallus             |  353 |
+| Versi l’oracle     |  361 |
+| Volkan             |  349 |
+| Ésope              |  362 |
+
+* Monstres
+
+| Monstre              | page | type                 |
+|----------------------+------+----------------------|
+| Ancien empyréen      |  385 | Cyclope              |
+| Automate de bronze   |  364 | Automate             |
+| Barbare parfait      |  429 | PNJ                  |
+| Berserker minautaure |  390 | Minotaure            |
+| Blemmye              |  378 | Cyclope              |
+| Bras de Kentimane    |  430 | PNJ                  |
+| Béhémoth             |  373 | Béhémoth             |
+| Bélier d’or          |  397 | Bête mythique        |
+| Cerbère              |  416 | Serviteur de la mort |
+| Cerf blanc           |  395 | Bête mythique        |
+| Chevrotin            |  421 | Serviteur de la mort |
+| Colosse              |  366 | Automate             |
+| Criosphinx           |  426 | Sphinx               |
+| Cétus                |  409 | Monstre marin        |
+| Druide Sauvage       |  429 | PNJ                  |
+| Druide centaure      |  374 | Centaure             |
+| Golem de marbre      |  369 | Automate             |
+| Guerrière Amazone    |  430 | PNJ                  |
+| Gygan                |  380 | Cyclope              |
+| Hiérocosphinx        |  428 | Sphinx               |
+| Héros Gygan          |  380 | Cyclope              |
+| Héros centaure       |  376 | Centaure             |
+| Héros minotaure      |  390 | Minotaure            |
+| Ichthys              |  410 | Monstre marin        |
+| Jancan               |  377 | Cyclope              |
+| Jeune empyréen       |  384 | Cyclope              |
+| Kélédones            |  370 | Automate             |
+| Lestrygon            |  386 | Lestrygon            |
+| Lion d’Or            |  397 | Bête mythique        |
+| Loup corrompu        |  419 | Serviteur de la mort |
+| Maître d’arme        |  431 | PNJ                  |
+| Moine guerrier       |  432 | PNJ                  |
+| Myrmex supérieur     |  394 | Myrmex               |
+| Méduse euryale       |  389 | Méduse               |
+| Ménades              |  422 | Serviteur de la mort |
+| Ménestrel satyre     |  431 | PNJ                  |
+| Naïade               |  400 | Nymphe               |
+| Nosos                |  425 | Serviteur de la mort |
+| Néréide              |  403 | Nymphe               |
+| Océanide             |  404 | Nymphe               |
+| Oréade               |  407 | Nymphe               |
+| Ouranie              |  400 | Nymphe               |
+| Ouvrier myrmex       |  392 | Myrmex               |
+| Reine myrmex         |  394 | Myrmex               |
+| Sanglier corrompu    |  418 | Serviteur de la mort |
+| Sanglier titanesque  |  395 | Bête mythique        |
+| Scylla               |  413 | Monstre marin        |
+| Seigneur centaure    |  376 | Centaure             |
+| Serpent de p%mer     |  414 | Monstre marin        |
+| Soldat               |  432 | PNJ                  |
+| Soldat, capitaine    |  433 | PNJ                  |
+| Troglodyte brutial   |  433 | PNJ                  |
