@@ -81,3 +81,23 @@
 | Soldat               |  432 | PNJ                  |
 | Soldat, capitaine    |  433 | PNJ                  |
 | Troglodyte brutial   |  433 | PNJ                  |
+
+* Cotes
+
+| Cote | Lieu                       | Page |
+|------+----------------------------+------|
+| N    | La mer de l’oubli          |  195 |
+| O    | Le temple de l’Oralce      |   34 |
+| E    | Estoria                    |   43 |
+| F    | La forge de Mithral        |   54 |
+| T    | Le temple Moussu           |   65 |
+| X    | La nécropole de Telamok    |   74 |
+| M    | Mytros                     |   96 |
+| U    | Ultros                     |  118 |
+| V    | Village des hommes-lézards |  157 |
+| Y    | La bibliothèque interdite  |  164 |
+| P    | La prison des Amazones     |  173 |
+| N    | La mer de l’oubli          |  195 |
+| B    | La prison cubique          |  201 |
+| H    | Hypnos, le trône des rêves |  204 |
+|      |                            |      |

@@ -3,5 +3,6 @@
 Notes et aides de jeu pour la campagne de jeu de rôle, l’odyssée des
 seigneurs dragons.
 
-[[file:index.org][Index]]
+- [[file:index.org][Index]]
+- [[file:rimes.org][Rimes]]
 
