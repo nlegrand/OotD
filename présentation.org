@@ -1,0 +1,48 @@
+* Présentation du jeu
+** Pourquoi ce jeu ?
+
+- C’est une aventure épique cohérente où il est facile de comprendre
+  comment impliquer les personnages. Il n’y a pas beaucoup d’aventures
+  D&D qui permettent ça ;
+- Celle-ci propose en plus d’aller jusqu’à très
+  haut niveau ;
+- Le cadre est globalement sympa ;
+- D&D 5 est le jeu avec lequel j’ai repris le jdr, avec mon ami
+  Aurélien qui est mort depuis, c’est extrêmement plaisant pour moi de
+  me replonger dans ce jeu et de repenser à tous les bons moments
+  passer ensemble ainsi que nos discussions dessus.
+
+** Quelles sont mes craintes ?
+
+- Le haut niveau me fait assez peur. Au niveau 10, il est fréquent
+  qu’un combat dure le temps d’une session, et les combats contre les
+  boss peuvent en donner plusieurs !
+- Il est possible que la campagne finisse en eau de boudin, en
+  fonction des choix que les PJ pourront faire, ou de la difficulté de
+  rester concentrer aussi longtemps sur une campagne.
+
+** Règles spécifiques :
+
+*** Maison
+
+- un point d’inspiration par session. Vous êtes des héros, je n’ai pas
+  envie de distribuer des bons points ;
+- des règles de voyage sans doute inspiré de LoTR 5e ou FBL ;
+- des XP façons DCC : pas besoin d’achever un monstre pour avoir l’XP,
+  survivre, c’est déjà bien ;
+- Est-ce que ça vaut vraiment le coup de faire un suivi à l’XP ?
+
+*** Classique
+
+- flanking (DMG p 251)
+- Options d’actions (DMG p. 271) :
+  - grimper sur une créature ;
+  - Désarmer ;
+  - marquer ;
+  - forcer le passage ;
+  - pousser de côté ;
+  - culbuter.
+- répartition d’attaque p. 272 ;
+- dommage massif ;
+- morale.
+  
